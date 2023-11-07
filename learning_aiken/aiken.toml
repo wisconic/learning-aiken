@@ -1,0 +1,14 @@
+name = "wisconic/learning_aiken"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'wisconic/learning_aiken'"
+
+[repository]
+user = "wisconic"
+project = "learning_aiken"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"
